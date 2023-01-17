@@ -70,11 +70,3 @@ Simple SFML Raycasting
   </a>
 </p>
 
-
-
-I hope you find my projects well and I am still open for any discussion !
-
-<!---
-Sala2Code/Sala2Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

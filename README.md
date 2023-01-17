@@ -10,8 +10,10 @@
 ## [RetroRoad 2022]
 A simple RetroRoad facing a starry night. It made with OpenGL.
 <p aling="center">
-  <a href="https://github.com/Sala2Code/RetroRoad"><img src="https://user-images.githubusercontent.com/109032171/212910639-a1e9294c-f4de-4c3f-80a0-2e4e31e8a189.png"></a>
+  <a href="https://github.com/Sala2Code/RetroRoad"><img src="https://user-images.githubusercontent.com/109032171/212911887-32bdde6b-039d-42d8-8cc0-b31b72c12ddf.png"></a>
 </p>
+
+
 
 ## [Soft-body 2022]
 Draw your own structure easily and see how it rebounds ! You can handle with your mouse. This simulation works eqaully with a feature added which is the pressure.
@@ -20,10 +22,13 @@ Draw your own structure easily and see how it rebounds ! You can handle with you
 </p>
 
 
-## [Boids 2022]  (https://github.com/Sala2Code/boids)
+## [Boids 2022]
 Simulation of the flocking behavior (with a predator)
 
-![boids](https://user-images.githubusercontent.com/109032171/212908538-d1e2b232-caa9-470f-8135-97a7a6e494e2.gif)
+<p aling="center">
+  <a href="https://github.com/Sala2Code/boids"><img src="https://user-images.githubusercontent.com/109032171/212907622-bc5a428e-4545-4795-9407-925641832743.png](https://user-images.githubusercontent.com/109032171/212908538-d1e2b232-caa9-470f-8135-97a7a6e494e2.gif)"></a>
+</p>
+
 
 ## [IA Car Racing 2022] (https://github.com/Sala2Code/IA_Car_Racing)
 Neural network learn to drive cars on infinite road (Python - NEAT)

@@ -1,8 +1,14 @@
+# About me
+
 - 👋 Hi, I’m @Sala2Code. A french student in mathematics and physics (double cursus).
 - 👀 I’m interested in programmation and more precisily about machine learning, deep learning, simulation...
 - 🌱 I’m always learning mathematics because it's the best field !
 - 📫 How to reach me : contact.r.sala@gmail.com or @sala_reaper on twitter.
 
+
+# Skills
+
+Soon...
 
 # My Projects
 
@@ -26,7 +32,7 @@ Draw your own structure easily and see how it rebounds ! You can handle with you
 </p>
 
 
-## [Boids 2022]
+## [ 🐦 Boids 2022](https://github.com/Sala2Code/boids)
 Simulation of the flocking behavior (with a predator)
 
 <p align="center">
@@ -37,16 +43,17 @@ Simulation of the flocking behavior (with a predator)
 
 
 
-## [IA Car Racing 2022] (https://github.com/Sala2Code/IA_Car_Racing)
+## [ 🚗 IA Car Racing 2022](https://github.com/Sala2Code/IA_Car_Racing)
 Neural network learn to drive cars on infinite road (Python - NEAT)
 
 <p align="center">
   <a href="https://github.com/Sala2Code/boids">
-    <img src="https://user-images.githubusercontent.com/109032171/212908936-390b57b6-7b3f-406a-b27f-0329e84ac2c1.png">
+    <img src="https://user-images.githubusercontent.com/109032171/212931882-cc96a0dd-937d-4bc6-b367-11432588eba2.png">
   </a>
 </p>
 
-## [MyRecipes 2023]  ()
+
+## [ 🦀 MyRecipes 2023]()
 Android application to write your recipes. 
 <p align="center">
   <a href="https://github.com/Sala2Code/boids">
@@ -55,13 +62,14 @@ Android application to write your recipes.
 </p>
 
 
-## [Raycasting 2022]  (https://github.com/Sala2Code/Raycasting)
+## [ 🧱 Raycasting 2022](https://github.com/Sala2Code/Raycasting)
 Simple SFML Raycasting 
 <p align="center">
   <a href="https://github.com/Sala2Code/boids">
-    <img src="https://user-images.githubusercontent.com/109032171/212910710-fbf1fb01-7ff7-41c3-8e6e-a7774333f651.png">
+    <img src="https://user-images.githubusercontent.com/109032171/212930420-20509eef-e070-41cd-970a-9baa01a23de3.png">
   </a>
 </p>
+
 
 
 I hope you find my projects well and I am still open for any discussion !

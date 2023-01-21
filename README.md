@@ -62,6 +62,14 @@ Android application to write your recipes.
 </p>
 
 
+## [ 🐭 Labyrinth 2D & 3D 2023](https://github.com/Sala2Code/Labyrinthe-2d-and-3d)
+Kruskal algorithm with Julia in 2D and 3D
+<p align="center">
+  <a href="[https://github.com/Sala2Code/boids](https://github.com/Sala2Code/Labyrinthe-2d-and-3d)">
+    <img src="https://user-images.githubusercontent.com/109032171/213881755-f41b6f39-955f-4c72-82d3-871f10b48a4f.gif">
+  </a>!
+</p>
+
 ## [ 🧱 Raycasting 2022](https://github.com/Sala2Code/Raycasting)
 Simple SFML Raycasting 
 <p align="center">

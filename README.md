@@ -53,7 +53,7 @@ Neural network learn to drive cars on infinite road (Python - NEAT)
 </p>
 
 
-## [ 🦀 MyRecipes 2023]()
+## [ 🦀 MyRecipes 2023](https://github.com/Sala2Code/MyRecipes)
 Android application to write your recipes. 
 <p align="center">
   <a href="https://github.com/Sala2Code/boids">

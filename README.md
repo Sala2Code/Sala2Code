@@ -6,14 +6,11 @@
 - 📫 How to reach me : contact.r.sala@gmail.com or @sala_reaper on twitter.
 
 
-# Skills
-
-Soon...
-
 # My Projects
 
 ## [ 🐙 Portfolio 2023](https://github.com/Sala2Code/portfolio)
 My portfolio showcasing my skills and experiences !
+Link : https://sala2code.github.io/portfolio/
 <p align="center">
   <a href="https://github.com/Sala2Code/portfolio">
     <img src="https://user-images.githubusercontent.com/109032171/222574675-a0f4aef0-ccfc-4f5e-94d5-786680b1f8f6.gif">

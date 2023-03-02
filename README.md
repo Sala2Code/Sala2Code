@@ -12,6 +12,16 @@ Soon...
 
 # My Projects
 
+## [ 🐙 Portfolio 2023](https://github.com/Sala2Code/portfolio)
+My portfolio showcasing my skills and experiences !
+<p align="center">
+  <a href="https://github.com/Sala2Code/portfolio">
+    <img src="https://user-images.githubusercontent.com/109032171/222574675-a0f4aef0-ccfc-4f5e-94d5-786680b1f8f6.gif">
+  </a>
+
+</p>
+
+
 
 ## [ 🌌 RetroRoad 2022](https://github.com/Sala2Code/RetroRoad)
 A simple RetroRoad facing a starry night. It made with OpenGL.

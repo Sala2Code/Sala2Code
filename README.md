@@ -48,6 +48,14 @@ Simulation of the flocking behavior (with a predator)
   </a>
 </p>
 
+## [_📈_Interactive-Function-Approximation](https://github.com/Sala2Code/Interactive-Function-Approximation)
+Interactive approximation of continuous functions using Remes, Bernstein, and Fourier methods
+
+<p align="center">
+  <a href="https://github.com/Sala2Code/Interactive-Function-Approximation">
+    <img src="https://github.com/Sala2Code/Sala2Code/assets/109032171/dd070bcf-8cf2-4dda-a99a-c88fac73d40d">
+  </a>
+</p>
 
 
 ## [ 🚗 IA Car Racing 2022](https://github.com/Sala2Code/IA_Car_Racing)

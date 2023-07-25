@@ -18,6 +18,16 @@ Link : https://sala2code.github.io/portfolio/
 
 </p>
 
+## [ 🎲 Noise-Perlin-Cellular 2023](https://github.com/Sala2Code/Noise-Perlin-Cellular)
+Perlin and Cellular (voronoï) Noise, 2D/3D. Interactive with OpenGL and ImGUI
+
+<p align="center">
+  <a href="https://github.com/Sala2Code/Noise-Perlin-Cellular">
+    <img src="https://user-images.githubusercontent.com/109032171/222574675-a0f4aef0-ccfc-4f5e-94d5-786680b1f8f6.gif">
+  </a>
+
+</p>
+
 
 
 ## [ 🌌 RetroRoad 2022](https://github.com/Sala2Code/RetroRoad)
@@ -52,7 +62,7 @@ Simulation of the flocking behavior (with a predator)
 Interactive approximation of continuous functions using Remes, Bernstein, and Fourier methods
 
 <p align="center">
-  <a href="https://github.com/Sala2Code/Interactive-Function-Approximation">
+  <a href="https://github.com/Sala2Code/Sala2Code/assets/109032171/1721f0fb-4fbf-4734-b4cb-f9cba0f397b2" alt="Interactive function approximation">
     <img src="https://github.com/Sala2Code/Sala2Code/assets/109032171/e63e6fb9-a6c1-4ba2-b838-b56defc2cbbb">
   </a>
 </p>

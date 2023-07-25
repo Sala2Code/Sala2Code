@@ -23,11 +23,10 @@ Perlin and Cellular (voronoï) Noise, 2D/3D. Interactive with OpenGL and ImGUI
 
 <p align="center">
   <a href="https://github.com/Sala2Code/Noise-Perlin-Cellular">
-    <img src="https://user-images.githubusercontent.com/109032171/222574675-a0f4aef0-ccfc-4f5e-94d5-786680b1f8f6.gif">
+    <img src="https://github.com/Sala2Code/Sala2Code/assets/109032171/dcceff4d-a75c-4282-b6da-d90f7bf91860">
   </a>
 
 </p>
-
 
 
 ## [ 🌌 RetroRoad 2022](https://github.com/Sala2Code/RetroRoad)

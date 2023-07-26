@@ -62,11 +62,9 @@ Interactive approximation of continuous functions using Remes, Bernstein, and Fo
 
 <p align="center">
   <a href="https://github.com/Sala2Code/Sala2Code/assets/109032171/1721f0fb-4fbf-4734-b4cb-f9cba0f397b2" alt="Interactive function approximation">
-    <img src="https://github.com/Sala2Code/Sala2Code/assets/109032171/e63e6fb9-a6c1-4ba2-b838-b56defc2cbbb">
+    <img src="https://github.com/Sala2Code/Sala2Code/assets/109032171/0fee13d6-6fbc-4b04-b03a-3580972256ea">
   </a>
 </p>
-
-
 
 ## [ 🚗 IA Car Racing 2022](https://github.com/Sala2Code/IA_Car_Racing)
 Neural network learn to drive cars on infinite road (Python - NEAT)
